@@ -71,3 +71,7 @@ Console enabled at: `http://localhost:8080/h2-console`
 - **JDBC URL**: `jdbc:h2:mem:loandb`
 - **User**: `sa`
 - **Password**: `password`
+
+<img width="845" height="454" alt="Screenshot 2026-01-21 011315" src="https://github.com/user-attachments/assets/7cd038f3-38b9-42f6-b15e-d048808c58a2" />
+<img width="1362" height="422" alt="Screenshot 2026-01-21 012456" src="https://github.com/user-attachments/assets/bce3086c-bd61-4331-bf48-ec95a11e1858" />
+
